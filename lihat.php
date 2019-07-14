@@ -16,5 +16,5 @@
 	}
 	echo "</form>";
 	echo "<a href=form.php> Klik Disini </a> untuk mendaftar<br>";
-	echo "<a href=jajal.html> Home </a><br>";
+	echo "<a href=projekta.php> Home </a><br>";
 ?>
